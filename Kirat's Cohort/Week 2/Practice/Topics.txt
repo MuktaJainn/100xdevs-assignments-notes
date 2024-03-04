@@ -1,0 +1,8 @@
+Topics covered till now in week1.
+
+Computers, basics js syntax, intro to callbacks.
+simple js apis(classes, date class, date class, string functions, object functions)
+loops, functions, js architechture, and promises.
+
+4 cases where we'll require asynchronous calls -> 1) do a network call 2) sleep/wait for some time
+3) read a file 4) database call
